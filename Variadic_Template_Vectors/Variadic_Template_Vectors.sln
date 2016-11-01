@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Variadic_Template_Vectors", "Variadic_Template_Vectors\Variadic_Template_Vectors.vcxproj", "{E561B0C1-AEE5-4568-8C97-736583529234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CTP_Debug|Win32 = CTP_Debug|Win32
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E561B0C1-AEE5-4568-8C97-736583529234}.CTP_Debug|Win32.ActiveCfg = CTP_Debug|Win32
+		{E561B0C1-AEE5-4568-8C97-736583529234}.CTP_Debug|Win32.Build.0 = CTP_Debug|Win32
+		{E561B0C1-AEE5-4568-8C97-736583529234}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E561B0C1-AEE5-4568-8C97-736583529234}.Debug|Win32.Build.0 = Debug|Win32
+		{E561B0C1-AEE5-4568-8C97-736583529234}.Release|Win32.ActiveCfg = Release|Win32
+		{E561B0C1-AEE5-4568-8C97-736583529234}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

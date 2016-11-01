@@ -1,0 +1,2 @@
+# math-library-experiments
+Math library experiments are some concept I am playing around to see if I can find an easy common interface for various class of vectors. The variadic template vector and matrix classes were written to create auto-generated linear algebra operands at compile time.  "experimental codes" contain  an attempt to use CRTP and Policy-Based design to write an easy interface that can swap various SIMD types at compile time.
